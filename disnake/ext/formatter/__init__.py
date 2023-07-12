@@ -41,6 +41,7 @@ class DisnakeFormatter(string.Formatter):
                     "created_at",
                     "description",
                     "id",
+                    "member_count",
                     "name",
                     "owner_id",
                     "preferred_locale",
