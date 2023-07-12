@@ -67,6 +67,7 @@ class DisnakeFormatter(string.Formatter):
                 },
                 disnake.Member: {
                     "bot",
+                    "display_avatar",
                     "created_at",
                     "discriminator",
                     "display_name",
